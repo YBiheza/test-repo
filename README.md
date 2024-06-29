@@ -37,6 +37,8 @@ function points(games) {
 ```
 ---
 For example I am attaching the link for the [current CV-project](https://github.com/YBiheza/rsschool-cv/blob/gh-pages/cv.md)
+
+
 ---
 ### **Education:** 
 * Belarusian State University of Informatics and Radioelectronics (2022); 
